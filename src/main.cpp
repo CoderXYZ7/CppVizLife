@@ -6,8 +6,8 @@
 
 // Global constants
 const int w = 100;          // Width of array
-const int h = 200;          // Height of array
-const int s = 5;            // Scaling factor
+const int h = 100;          // Height of array
+const int s = 6;            // Scaling factor
 const int FPS = 60;         // Frames per second
 
 int main() {
